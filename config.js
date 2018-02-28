@@ -2,7 +2,7 @@
 
 exports.userinfo = {
     json:true,
-    auth:'imtesteruser:testeruser2018'
+    auth:'yourGItHubUserName:YourPasswd'
 }
 
-exports.username = 'imtesteruser'
+exports.username = 'yourGItHubUserName'
